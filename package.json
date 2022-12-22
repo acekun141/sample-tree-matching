@@ -1,0 +1,21 @@
+{
+  "name": "detect-phishing-website",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "@types/jsdom": "^20.0.1",
+    "dom-parser": "^0.1.6",
+    "html-dom-parser": "^3.1.2",
+    "html-minifier": "^4.0.0",
+    "jsdom": "^20.0.3",
+    "node-html-parser": "^6.1.4",
+    "sanitize-html": "^2.8.0"
+  },
+  "devDependencies": {
+    "@types/dom-parser": "^0.1.1",
+    "@types/html-minifier": "^4.0.2",
+    "@types/node": "^18.11.17",
+    "@types/sanitize-html": "^2.8.0"
+  }
+}
